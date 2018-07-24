@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "336751051647",
+    "firebase_url": "https://sats-studio.firebaseio.com",
+    "project_id": "sats-studio",
+    "storage_bucket": "sats-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336751051647:android:cf519b55496e2d39",
+        "android_client_info": {
+          "package_name": "com.sats.satsstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336751051647-883qpjknhdg0tb5529cmiv1n8ivlijgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sats.satsstudio",
+            "certificate_hash": "96d046519d9120948789fee174cf4d0b1232744f"
+          }
+        },
+        {
+          "client_id": "336751051647-q981g2jvqn4i3707t6u35lu6qt9a2omf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzNsNSGBrazPyaqsryO3aqvOeGjLE--v0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336751051647-q981g2jvqn4i3707t6u35lu6qt9a2omf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
